@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraficaProject", "GraficaProject\GraficaProject.csproj", "{8F11B303-060C-4AFA-B509-556A72C784DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F11B303-060C-4AFA-B509-556A72C784DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F11B303-060C-4AFA-B509-556A72C784DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F11B303-060C-4AFA-B509-556A72C784DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F11B303-060C-4AFA-B509-556A72C784DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F4F9A82-2D9C-487F-8F64-CAE92BED8FA8}
+	EndGlobalSection
+EndGlobal
